@@ -1,0 +1,14 @@
+# Godot generated/cache files: never index or read
+.godot/
+*.import
+*.uid
+builds/
+export/
+android/
+*.wav
+*.ogg
+*.mp3
+*.ttf
+*.otf
+*.res
+*.scn
